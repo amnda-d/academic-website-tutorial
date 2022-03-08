@@ -44,7 +44,7 @@ Go to `username.github.io`. It could take a few minutes, but you should see a we
 
 At this point, you have a very simple website - not very exciting. To add more to it, you can:
 
-* [Add pictures](pictures.md)
+* [Add pictures and other files](pictures.md)
 * [Add another page](pages.md)
 * [Add a header](header.md)
 * [Use a different theme](themes.md)
