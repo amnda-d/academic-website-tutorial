@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Linguist Q. Person"
 permalink: /example/
+---
 
 <img src="cat.jpg" width="300" />
 
