@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-<button>[Home](index.md)</button>
+<button>[Home](example.md)</button>
 <button>[About Me](about.md)</button>
 <button>[Publications](publications.md)</button>
 
