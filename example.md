@@ -1,6 +1,6 @@
-# Linguist Person
+# Linguist Q. Person
 
-![Cat](cat.jpg | width=300)
+![Cat](cat.jpg|width=300px)
 
 ## Contact
 
