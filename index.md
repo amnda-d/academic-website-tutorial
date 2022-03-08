@@ -1,4 +1,7 @@
-# Making an Academic Website with GitHub Pages
+---
+layout: page
+title: "Making an Academic Website with GitHub Pages"
+---
 
 [GitHub Pages](https://docs.github.com/en/pages) allows you to easily create a simple website, hosted at `username.github.io`. In this tutorial, I'll show you how to make a single page academic website like this [Example Website](example.md).
 
