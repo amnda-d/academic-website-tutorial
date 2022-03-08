@@ -4,6 +4,8 @@ title: "Linguist Q. Person"
 
 # <button>[Home](example.md)</button> <button>[About Me](about.md)</button> <button>[Publications](publications.md)</button>
 
+-----
+
 <img src="img/cat.jpg" width="300" />
 
 ## Contact
