@@ -1,4 +1,5 @@
-# Linguist Q. Person
+layout: page
+title: Linguist Q. Person
 
 <img src="cat.jpg" width="300" />
 
