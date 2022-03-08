@@ -1,11 +1,11 @@
 # Linguist Person
 
+![Cat](cat.jpg | width=300)
+
 ## Contact
 
-123 University St.
-
-Montreal, QC
-
+123 University St.<br/>
+Montreal, QC<br/>
 [email@fakeemail.com](mailto:email@fakeemail.com)
 
 
