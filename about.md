@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-<buttom>[Home](index.md)</button>
+<button>[Home](index.md)</button>
 <button>[About Me](about.md)</button>
 <button>[Publications](publications.md)</button>
 
