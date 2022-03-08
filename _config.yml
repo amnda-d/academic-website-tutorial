@@ -1,2 +1,6 @@
-# theme: jekyll-theme-tactile
+name: Academic Website Tutorial
+
+footer-links:
+  github: amnda-d/academic-website-tutorial
+
 remote_theme: amitmerchant1990/reverie
