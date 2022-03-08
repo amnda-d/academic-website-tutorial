@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Making an Academic Website with GitHub Pages"
 ---
 
