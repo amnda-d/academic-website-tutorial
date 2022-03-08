@@ -1,10 +1,12 @@
 ---
-title: "Publications"
+title: "Linguist Q. Person"
 ---
 
 <button>[Home](example.md)</button>
 <button>[About Me](about.md)</button>
 <button>[Publications](publications.md)</button>
+
+# Publications
 
 **Linguist Person.** [How to do linguistics](https://googlethatforyou.com?q=linguistics). *A Cool Conference 2022*.
 
