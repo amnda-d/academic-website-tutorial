@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Making an Academic Website with GitHub Pages
+
+[GitHub Pages](https://docs.github.com/en/pages) allows you to easily create a simple website, hosted at `username.github.io`. In this tutorial, I'll show you how to make a single page academic website like this [Example Website](example.md).
+
+
+
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/amnda-d/academic-website-tutorial/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +40,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
